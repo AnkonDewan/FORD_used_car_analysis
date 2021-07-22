@@ -5,9 +5,9 @@ Dataset source:  https://www.kaggle.com/aishwaryamuthukumar/cars-dataset-audi-bm
 
 Objectives:
      
-     *1. Creating Dataframe and reshaping, renaming index and columns as required.
-     *2. Creating Barplots.
-     *3. Creating Scatterplots.
-     *4. Creating Historgrams, distribution plots.
-     *5. Creating ECDF plots.
-     *6. Anayzing the findings from the plots.**
+     1. Creating Dataframe and reshaping, renaming index and columns as required.
+     2. Creating Barplots.
+     3. Creating Scatterplots.
+     4. Creating Historgrams, distribution plots.
+     5. Creating ECDF plots.
+     6. Anayzing the findings from the plots.**

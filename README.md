@@ -10,4 +10,5 @@ Objectives:
      3. Creating Scatterplots.
      4. Creating Historgrams, distribution plots.
      5. Creating ECDF plots.
-     6. Anayzing the findings from the plots.**
+     6. Modifying plots where necessary such as (hue, palette, stacks, color, palette, xticks, yticks and many other).
+     6. Anayzing the findings from the plots.
